@@ -1,6 +1,6 @@
 # Movie Chatbot
 
-A generative AI chatbot that answers questions about movies, built for a hackathon project.
+A generative AI chatbot that specializes in questions related to movies.
 
 ## Features
 
